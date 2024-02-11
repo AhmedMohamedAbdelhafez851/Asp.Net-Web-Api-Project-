@@ -1,4 +1,4 @@
-# Bulding an ASP.NET Core Web API with Entity Framework Core To enable users to interact with and manipulate the data in a flexible and powerful way.
+# Building an ASP.NET Core Web API with Entity Framework Core To enable users to interact with and manipulate the data in a flexible and powerful way.
 
 ## •  Build Database using code first approach ( Entity Framework Core ) . 
 
